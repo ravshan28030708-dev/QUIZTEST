@@ -1,0 +1,1 @@
+.env\n*.log\nnode_modules/\nuploads/\n.DS_Store\n.vscode/\n.env.local\n.env.*.local
